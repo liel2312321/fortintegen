@@ -1,5 +1,1 @@
-# fortintegen
-
-
-fortinte gen codes
-Version 1.0
+        Console.WriteLine("hi");
