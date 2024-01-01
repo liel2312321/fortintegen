@@ -1,8 +1,3 @@
-```c
-        Console.Write("How many codes do you want? ");
-
-
-```
-
+גרסה
 
 1.0.0
