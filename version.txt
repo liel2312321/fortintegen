@@ -1,6 +1,8 @@
-Console.WriteLine("23333i");
+```c
+        Console.Write("How many codes do you want? ");
 
 
+```
 
 
 1.0.0
