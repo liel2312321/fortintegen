@@ -1,11 +1,15 @@
 
 
 
-_________________________________________________________________________
-! If you don't have a name and password send a message on Instagram [liel davidyan]
-! If there was a new version of the software you will receive a download link!
-_________________________________________________________________________
-Status epic game server:not connected
+                      _____________________________________________________________________________________
+                      |! If you don't have a name and password send a message on Instagram [liel davidyan]  |
+                      |! If there was a new version of the software you will receive a download link!       |
+                      |_____________________________________________________________________________________|
 
 
-1.0.0
+
+
+Status epicgame server:not connected
+
+
+v 1.0.0
